@@ -15,13 +15,13 @@ MonoBehaviour:
   active: 1
   enabled:
     overrideState: 1
-    value: 1
+    value: 0
   intensity:
     overrideState: 1
-    value: 372.47
+    value: 200
   threshold:
     overrideState: 1
-    value: 494.23
+    value: 200
   softKnee:
     overrideState: 0
     value: 0.5
@@ -77,10 +77,10 @@ MonoBehaviour:
   active: 1
   enabled:
     overrideState: 1
-    value: 1
+    value: 0
   focusDistance:
     overrideState: 1
-    value: 15.09
+    value: 15
   aperture:
     overrideState: 1
     value: 32
